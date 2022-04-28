@@ -1,0 +1,13 @@
+ref,alt,type 
+C,T,C>T
+G,A,C>T
+C,A,C>A
+G,T,C>A
+C,G,C>G
+G,C,C>G
+T,A,T>A
+A,T,T>A
+T,G,T>G
+A,C,T>G
+T,C,T>C
+A,G,T>C
